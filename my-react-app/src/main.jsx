@@ -10,15 +10,11 @@ const router = createBrowserRouter([
   {
     element: <App/>,
     path: "/",
-    
-     children: [
-      {
-        path: "/ContactPage",
-        element: <ContactPage/>
-      }
-     ]
-},
-
+  },
+  {
+    path: "/ContactPage",
+    element: <ContactPage/>,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
