@@ -1,0 +1,22 @@
+nav{
+    background-color: var(--third-main-color);
+    height: 20px;
+    display: flex;
+    align-items: center;
+    border-top: .2rem solid var(--second-main-color);
+    
+    ul{
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content:space-around;
+      font-size: 15px;
+        
+        a{
+          color: var(--main-color);
+        }
+      a:hover{
+          color: var(--second-main-color);
+        }
+     }
+}
