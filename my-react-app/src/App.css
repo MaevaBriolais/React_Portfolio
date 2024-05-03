@@ -1,4 +1,12 @@
+:root{
+    --main-color : #fdf7f0;
+    --second-main-color : #b5d4b1;
+    --third-main-color : #435966;
+  }
 
+*{
+    margin: 0;
+}
 
 
 

@@ -1,0 +1,53 @@
+:root{
+    --main-color : #fdf7f0;
+    --second-main-color : #b5d4b1;
+    --third-main-color : #435966;
+  }
+
+header{
+    color: var(--third-main-color);
+    background-color: var(--second-main-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    height: 200px;
+    border-bottom: .2rem solid var(--second-main-color);
+}
+
+.left{
+display: flex;
+align-items: center;
+
+img{
+    width : 30%;
+    border: 0.1rem solid var(--main-color);
+    border-radius: 30% 0 30% 0;
+    margin-right: 1rem;
+}
+
+.userProfil{
+    h1{
+        font-size:25px;
+        margin-bottom: .5rem;
+    }
+    h2{
+        font-size: 18px;
+        margin: .5rem 0;
+        }
+     p{
+        font-size: 12px;
+        margin: .5rem 0;
+        }
+    }
+
+    .contact{
+        img{
+            width: 10%;
+            border-radius: 15%;
+            border: none;
+            margin-top: .5rem;
+            cursor: pointer;
+        }
+    }
+}
