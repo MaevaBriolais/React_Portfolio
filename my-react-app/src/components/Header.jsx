@@ -8,7 +8,10 @@ function Header() {
         <div className="userProfil">
           <h1>Maëva BRIOLAIS</h1>
           <h2>Développeuse Web</h2>
-          <p> A la recherche d'une alternance - Concepteur Développeur d'Applications </p>
+          <p>
+            A la recherche d'une alternance pour Septembre 2024 - Concepteur
+            Développeur d'Applications
+          </p>
         </div>
       </div>
 
