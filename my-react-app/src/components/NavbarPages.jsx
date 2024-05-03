@@ -5,8 +5,8 @@ function NavbarPages() {
   return (
     <nav>
       <ul>
-        {/* <li><a>Diplômes</a></li>
-        <li><a>Expériences</a></li> */}
+        <Link to="/DiplomesPage">Diplômes</Link>
+        <li><a>Expériences</a></li>
         <Link to="/ContactPage"> Contact</Link>
       </ul>
     </nav>
