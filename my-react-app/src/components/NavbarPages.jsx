@@ -6,7 +6,7 @@ function NavbarPages() {
     <nav>
       <ul>
         <Link to="/DiplomesPage">Diplômes</Link>
-        <li><a>Expériences</a></li>
+        <Link to="ExperiencePage">Expériences</Link>
         <Link to="/ContactPage"> Contact</Link>
       </ul>
     </nav>
