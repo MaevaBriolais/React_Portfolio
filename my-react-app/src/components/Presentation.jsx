@@ -21,6 +21,8 @@ function Presentation() {
         beaucoup le travail d'équipe, je suis très motivée et impliquée dans mes
         missions, les projets d'équipes et d'entreprise.
       </p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident sint odit incidunt nam est ab corrupti dignissimos nesciunt dolorem cum, perferendis veniam non deserunt, magnam commodi. Minima reprehenderit id explicabo?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, velit nam. Numquam reiciendis error distinctio ad corporis ipsam harum, nam itaque fugiat dolor sit quisquam delectus officiis iste laboriosam deserunt.</p>
     </div>
   );
 }
