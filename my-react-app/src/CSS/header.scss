@@ -1,16 +1,10 @@
-:root{
-    --main-color : #fdf7f0;
-    --second-main-color : #b5d4b1;
-    --third-main-color : #435966;
-  }
-
 header{
     color: var(--third-main-color);
     background-color: var(--second-main-color);
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px;
+    padding: 0 10px 0 10px;
     height: 200px;
 }
 
