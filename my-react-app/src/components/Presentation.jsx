@@ -1,6 +1,8 @@
+import "../CSS/presentation.scss"
+
 function Presentation() {
   return (
-    <>
+    <div className="presentation">
       <h1> Qui suis-je ?</h1>
       <p>
         Je me présente, Maëva, après plusieurs années dans le transport de
@@ -19,7 +21,7 @@ function Presentation() {
         beaucoup le travail d'équipe, je suis très motivée et impliquée dans mes
         missions, les projets d'équipes et d'entreprise.
       </p>
-    </>
+    </div>
   );
 }
 

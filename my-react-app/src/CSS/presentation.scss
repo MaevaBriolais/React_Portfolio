@@ -1,0 +1,16 @@
+.presentation{
+    padding: 1rem;
+    color: var(--third-main-color);
+    background-color: var(--main-color);
+
+    h1{
+      font-size: 20px;
+      text-align: center;
+      background-color: var(--third-main-color);
+      color: var(--main-color)
+    }
+    p{
+        text-align: justify;
+        padding: 10px;
+    }
+}
