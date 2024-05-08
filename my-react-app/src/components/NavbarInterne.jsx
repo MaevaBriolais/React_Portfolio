@@ -4,7 +4,7 @@ function NavbarInterne() {
   return (
     <nav>
       <ul>
-        <li><a href="">Présentation</a></li>
+      <li><a href="#presentation">Présentation</a></li>
         <li><a href="">Skills</a></li>
         <li><a href="">Projets</a></li>
       </ul>
