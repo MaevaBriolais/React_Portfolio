@@ -1,0 +1,17 @@
+.skills {
+    border-top: .5rem solid var(--second-main-color);
+    padding: 2rem;
+    background-color: var(--main-color);
+
+    img{
+        max-width: 150px;
+        max-height: 200px;
+        min-height: 200px;
+        background-color: var(--main-color);
+    }
+    p{
+        margin: 3rem 1rem 1rem 1rem;
+        font-size: 1.2rem;
+    }
+}
+
