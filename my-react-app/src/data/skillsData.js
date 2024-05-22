@@ -9,6 +9,8 @@ import rigoureuse from "../assets/rigueur.png";
 import git from "../assets/git.png";
 import apprendre from "../assets/apprendre.png";
 import nodejs from "../assets/nodejs.png";
+import mySQL from "../assets/mySQL.png";
+import express from "../assets/express.png";
 
 const skillsList = [
   {
@@ -66,6 +68,18 @@ const skillsList = [
     name: "Node.js",
     imgSrc: nodejs,
   },
+  {
+    id: "12",
+    name: "MySQL",
+    imgSrc: mySQL,
+  },
+  {
+    id: "13",
+    name: "Express JS",
+    imgSrc: express,
+  },
+
+
 ];
 
 export default skillsList;
