@@ -11,6 +11,8 @@ import 'swiper/css/pagination';
 
 function Skills() {
   return (
+    <>
+    <h1> Skills </h1>
     <Swiper  
     slidesPerView={2}
     spaceBetween={0}
@@ -33,6 +35,7 @@ function Skills() {
       ))}
       
     </Swiper>
+    </>
   );
 }
 export default Skills;
