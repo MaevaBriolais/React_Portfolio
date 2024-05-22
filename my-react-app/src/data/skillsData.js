@@ -1,14 +1,14 @@
 import html5 from "../assets/Html5.png";
-import teamwork from "../assets/teamwork.jpeg";
+import teamwork from "../assets/equipes.png";
 import css from "../assets/css.png";
-import motivee from "../assets/Motivee.jpeg";
+import motivee from "../assets/Motivee.png";
 import reactLogo from "../assets/react.png";
-import reactive from "../assets/reactive.jpeg";
-import javascript from "../assets/Javascript.jpeg";
-import rigoureuse from "../assets/rigoureuse.jpeg";
+import reactive from "../assets/reactive.png";
+import javascript from "../assets/Javascript.png";
+import rigoureuse from "../assets/rigueur.png";
 import git from "../assets/git.png";
-import apprendre from "../assets/apprendre.jpeg";
-import nodejs from "../assets/nodejs.jpeg";
+import apprendre from "../assets/apprendre.png";
+import nodejs from "../assets/nodejs.png";
 
 const skillsList = [
   {
