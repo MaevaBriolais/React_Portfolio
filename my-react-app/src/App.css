@@ -8,6 +8,13 @@
     margin: 0;
 }
 
+h1{
+  font-size: 20px;
+  text-align: center;
+  background-color: var(--third-main-color);
+  color: var(--main-color);
+  padding: .2rem;
+}
 
 
 

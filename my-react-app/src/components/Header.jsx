@@ -6,8 +6,8 @@ function Header() {
     <header className="left">
         <img src={Avatar} alt="User profil" />
         <div className="userProfil">
-          <h1>Maëva BRIOLAIS</h1>
-          <h2>Développeuse Web</h2>
+          <h2>Maëva BRIOLAIS</h2>
+          <h3>Développeuse Web</h3>
           <p>
             A la recherche d'une alternance - Concepteur
             Développeur d'Applications
